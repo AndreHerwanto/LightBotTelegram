@@ -14,7 +14,7 @@ CTBot myBot;
 
 String ssid = "YOUNG";     // REPLACE mySSID WITH YOUR WIFI SSID
 String pass = "andalas233"; // REPLACE myPassword YOUR WIFI PASSWORD, IF ANY
-String token = "1972427240:AAGleMF4WxdlTe04gzG2dLIAA5bT6Jm9iFE";   // REPLACE myToken WITH YOUR TELEGRAM BOT TOKEN
+String token = "masukan token API";   // REPLACE myToken WITH YOUR TELEGRAM BOT TOKEN
 const int id = 1793339711;
 uint8_t led = 2;            // the onboard ESP8266 LED.    
                             // If you have a NodeMCU you can use the BUILTIN_LED pin
